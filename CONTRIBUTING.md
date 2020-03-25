@@ -64,3 +64,6 @@ The signature should look as such:
 
 > Pro-tip: `git` can automatically add the signature by adding the `-s` flag to the commit command:\
 > `git commit -s`
+
+[fork]: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+[create-pr]: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
