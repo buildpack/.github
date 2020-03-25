@@ -3,12 +3,13 @@
 ## Pull Request Process
 
 1. [Fork][fork] the repository.
-2. Create a branch for the issue: `git checkout -b {{BRANCH_NAME}}`
-3. Make any changes deemed necessary.
-4. Commit your changes: `git commit -s`\
+2. [Clone][clone] your fork repository.
+3. Create a branch for the issue: `git checkout -b {{BRANCH_NAME}}`
+4. Make any changes deemed necessary.
+5. Commit your changes: `git commit -s`\
     _Learn more about the [sign-off](#sign-off-process) process below._
-5. Push to GitHub: `git push origin {{BRANCH_NAME}}`
-6. [Create the pull request][create-pr].
+6. Push to GitHub: `git push origin {{BRANCH_NAME}}`
+7. [Create the pull request][create-pr].
 
 
 ## Sign-off Process
@@ -66,4 +67,5 @@ The signature should look as such:
 > `git commit -s`
 
 [fork]: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+[clone]: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 [create-pr]: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
